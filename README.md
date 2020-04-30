@@ -5,19 +5,20 @@
 op( opcode ) คือการบ่งบอกว่า ใช้คำสั่งรูปเเบบไหน  
 ### R - Format
 
-  โครงสร้าง | op  | rs | rt | rd  | shamt |func     
-  จำนวนบิต  6,5,5,5,5,6  ตามลำดับ
+    * โครงสร้าง | op  | rs | rt | rd  | shamt |func     
+    * บิต  6,5,5,5,5,6  ตามลำดับ
   
     * ALU            func$rd,$rs,$st  
+
 ### I - Format
-   โครงสร้าง | op | rs | rt | value or offset  
-   จำนวนบิต  6,5,5,16  ตามลำดับ
+    * โครงสร้าง | op | rs | rt | value or offset  
+    * บิต  6,5,5,16  ตามลำดับ
    
     * ALUi           alui $rt,$rs,value              
     
 ### J - format
 
-   โครงสร้าง | op | absolute address |
-   จำนวนบิต 6,26 ตามลำดับ
+    * โครงสร้าง | op | absolute address |
+    * บิต 6,26 ตามลำดับ
    
      * Jump           j address
