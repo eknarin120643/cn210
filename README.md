@@ -26,19 +26,31 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
  ![br](https://i.stack.imgur.com/rdoQ1.png)
 
 ### อธิบาย CLIP  1 
-คลิปนี้ อธิบายการทำงานของ j-format 
-โดยการทำงานเริ่ม จากิฟไปทางขวา2 เเละตัด6บิทเเรกออก เปลี่ยนไปเป็น op ของjump 000010
+ ![br](https://i.stack.imgur.com/rdoQ1.png)
+     คลิปนี้ อธิบายการทำงานของ j-format 
+     โดยการทำงานเริ่ม จากิฟไปทางขวา2 เเละตัด6บิทเเรกออก เปลี่ยนไปเป็น op ของjump 000010
 [<br>**homework Clip-1**](https://www.youtube.com/watch?v=riAvroydGXE)
 
 ### อธิบาย CLIP  2
+ ![br](https://i.stack.imgur.com/rdoQ1.png)
+     คลิปนี้จะอธิบายการทำงานของ cpu เริ่มต้นเมื่อเปิดสวิซท์ ว่าจะเเปลงภาษาไบนารี่ เป็นภาษาเครื่องอย่างไร
+[<br>**homework Clip-2**](https://www.youtube.com/watch?v=MS8ugNKOJ7U&t=27s)
 
-### อธิบาย CLIP  2
+### อธิบาย CLIP  3
+     คลิปนี้อธิบายข้อเเตกเเต่งระหว่าง  Single Cycle กับ Multicycle 
+ [<br>**homework Clip-3**](https://www.youtube.com/watch?v=7nbPBMxXHjQ&t=3s)
 
 ### อธิบาย CLIP  4
-
+ ![br](https://i.stack.imgur.com/rdoQ1.png)
+ [<br>**homework Clip-4**](https://www.youtube.com/watch?v=qNPi691dTtY&t=75s)
 ### อธิบาย CLIP  5
+ ![br](https://i.stack.imgur.com/rdoQ1.png)
+ [<br>**homework Clip-5**](https://www.youtube.com/watch?v=s0cYBJ3tLiU)
 
 ### อธิบาย CLIP  6
-
+ ![br](https://i.stack.imgur.com/rdoQ1.png)
+[<br>**homework Clip-6**](https://www.youtube.com/watch?v=vzmKDfFe6nQ&t=32s)
 ### อธิบาย CLIP  7
+ ![br](https://i.stack.imgur.com/rdoQ1.png)
+ [<br>**homework Clip-7**](https://www.youtube.com/watch?v=i0zpqcLBxGs)
     
