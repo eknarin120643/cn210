@@ -65,8 +65,10 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
      ในคลิป 6 จะพูดถึงคำสั่ง R-type ซึ่งมีทั้งหมด 4 cycle (TI-T4) 
      1 เมื่อทำการเปิด switch PC จะทำการอ่านคำสั่งในmemoryแล้วนำข้อมูลที่อ่านไปเก็บไว้ใน instruction register
        ในขณะเดียวกัน PC จะนำPCไปบวก4 ที่ ALU แล้วทำการเอา PC + 4 มาเก็บไว้แทนที่PCเดิม 
-     2 นำค่าที่เก็บอยู่ใน instruction register มาเก็บไว้ที่ A และB (registerl (rs) and register2 (rt) "ไม่มีค่า offset เพราะว่าเราทำคำสั่ง R-tube 
-     3 นำค่า register กับ register2 มาคำนวณกันที่ALUแล้วเอาผลลัพธ์ที่ได้มาเก็บใน ALUOut) T4 นำค่า ALUOut ไปเก็บไว้ใน register 2
+     2 นำค่าที่เก็บอยู่ใน instruction register มาเก็บไว้ที่ A และB (registerl (rs) and register2 (rt) 
+       "ไม่มีค่า offset เพราะว่าเราทำคำสั่ง R-tube 
+     3 นำค่า register กับ register2 มาคำนวณกันที่ALUแล้วเอาผลลัพธ์ที่ได้มาเก็บใน ALUOut)
+     4 นำค่า ALUOut ไปเก็บไว้ใน register 2
  
 [<br>**homework Clip-6**](https://www.youtube.com/watch?v=vzmKDfFe6nQ&t=32s)
 ### อธิบาย CLIP  7
