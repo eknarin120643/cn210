@@ -22,3 +22,23 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
     * บิต 6,26 ตามลำดับ
    
      * Jump           j address
+ 
+ ![br](https://i.stack.imgur.com/rdoQ1.png)
+
+### อธิบาย CLIP  1 
+คลิปนี้ อธิบายการทำงานของ j-format 
+โดยการทำงานเริ่ม จากิฟไปทางขวา2 เเละตัด6บิทเเรกออก เปลี่ยนไปเป็น op ของjump 000010
+[<br>**homework Clip-1**](https://www.youtube.com/watch?v=riAvroydGXE)
+
+### อธิบาย CLIP  2
+
+### อธิบาย CLIP  2
+
+### อธิบาย CLIP  4
+
+### อธิบาย CLIP  5
+
+### อธิบาย CLIP  6
+
+### อธิบาย CLIP  7
+    
