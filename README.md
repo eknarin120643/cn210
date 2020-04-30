@@ -31,7 +31,7 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
 [<br>**homework Clip-1**](https://www.youtube.com/watch?v=riAvroydGXE)
 ### อธิบาย CLIP  2
  
- คลิปนี้จะอธิบายการทำงานของ cpu เริ่มต้นเมื่อเปิดสวิซท์ ว่าจะเเปลงภาษาไบนารี่ เป็นภาษาเครื่องอย่างไร
+      คลิปนี้จะอธิบายการทำงานของ cpu เริ่มต้นเมื่อเปิดสวิซท์ ว่าจะเเปลงภาษาไบนารี่ เป็นภาษาเครื่องอย่างไร
 [<br>**homework Clip-2**](https://www.youtube.com/watch?v=MS8ugNKOJ7U&t=27s)
 
 ### อธิบาย CLIP  3
@@ -39,7 +39,7 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
  [<br>**homework Clip-3**](https://www.youtube.com/watch?v=7nbPBMxXHjQ&t=3s)
 
 ### อธิบาย CLIP  4
- ![br](https://i.stack.imgur.com/rdoQ1.png)
+ 
  [<br>**homework Clip-4**](https://www.youtube.com/watch?v=qNPi691dTtY&t=75s)
 ### อธิบาย CLIP  5
  ![br](https://i.stack.imgur.com/rdoQ1.png)
