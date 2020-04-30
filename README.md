@@ -40,7 +40,7 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
  [<br>**homework Clip-3**](https://www.youtube.com/watch?v=7nbPBMxXHjQ&t=3s)
 
 ### อธิบาย CLIP  4
- ![br](ไฟล์_001 (1).png) 
+ ![br](11.png) 
  
     ในคลิป พูดถึง การทำงานของ lw ซึงมี T1-T5
     T1 Fetch จะเป็นการส่งค่าให้ register และส่งค่าให้ ALU เพื่อ +4 
@@ -51,7 +51,7 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
  
  [<br>**homework Clip-4**](https://www.youtube.com/watch?v=qNPi691dTtY&t=75s)
 ### อธิบาย CLIP  5
- ![br](https://i.stack.imgur.com/rdoQ1.png)
+ ![br]()
  [<br>**homework Clip-5**](https://www.youtube.com/watch?v=s0cYBJ3tLiU)
 
 ### อธิบาย CLIP  6
