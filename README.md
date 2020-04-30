@@ -35,6 +35,7 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
 [<br>**homework Clip-2**](https://www.youtube.com/watch?v=MS8ugNKOJ7U&t=27s)
 
 ### อธิบาย CLIP  3
+![br](ไฟล์_001.png) 
      คลิปนี้อธิบายข้อเเตกเเต่งระหว่าง  Single Cycle กับ Multicycle 
  [<br>**homework Clip-3**](https://www.youtube.com/watch?v=7nbPBMxXHjQ&t=3s)
 
