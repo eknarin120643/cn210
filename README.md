@@ -26,14 +26,12 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
  ![br](https://i.stack.imgur.com/rdoQ1.png)
 
 ### อธิบาย CLIP  1 
- ![br](https://i.stack.imgur.com/rdoQ1.png)
      คลิปนี้ อธิบายการทำงานของ j-format 
      โดยการทำงานเริ่ม จากิฟไปทางขวา2 เเละตัด6บิทเเรกออก เปลี่ยนไปเป็น op ของjump 000010
 [<br>**homework Clip-1**](https://www.youtube.com/watch?v=riAvroydGXE)
-
 ### อธิบาย CLIP  2
- ![br](https://i.stack.imgur.com/rdoQ1.png)
-     คลิปนี้จะอธิบายการทำงานของ cpu เริ่มต้นเมื่อเปิดสวิซท์ ว่าจะเเปลงภาษาไบนารี่ เป็นภาษาเครื่องอย่างไร
+ 
+ คลิปนี้จะอธิบายการทำงานของ cpu เริ่มต้นเมื่อเปิดสวิซท์ ว่าจะเเปลงภาษาไบนารี่ เป็นภาษาเครื่องอย่างไร
 [<br>**homework Clip-2**](https://www.youtube.com/watch?v=MS8ugNKOJ7U&t=27s)
 
 ### อธิบาย CLIP  3
