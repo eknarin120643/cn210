@@ -41,6 +41,14 @@ op( opcode ) คือการบ่งบอกว่า ใช้คำสั
 
 ### อธิบาย CLIP  4
  ![br](ไฟล์_001 (1).png) 
+ 
+    ในคลิป พูดถึง การทำงานของ lw ซึงมี T1-T5
+    T1 Fetch จะเป็นการส่งค่าให้ register และส่งค่าให้ ALU เพื่อ +4 
+    T2Fetch+1 เพื่อเก็บค่า register 2 ตัว และส่งเข้าไปที่ ALUOut 
+    T3ทำการ Mem1 เป็นการส่งค่าจาก Register ไปเข้า ALU เพื่อทำคำสั่งแล้วส่งให้ ALUOut 
+    T4ส่งค่าที่เก็บใน AUOutไปให้memory จากนั้นmemoryจะส่งไปเก็บใน memory data register
+    T5ส่งค่าที่เก็บใน memory register ไปไว้ใน register2
+ 
  [<br>**homework Clip-4**](https://www.youtube.com/watch?v=qNPi691dTtY&t=75s)
 ### อธิบาย CLIP  5
  ![br](https://i.stack.imgur.com/rdoQ1.png)
